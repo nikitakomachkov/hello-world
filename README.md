@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Learning branching and version control on GitHub.
+1/2/2018
